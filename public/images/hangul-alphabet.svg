@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#eef6f4"/>
+  <g font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-weight="700" text-anchor="middle">
+    <text x="600" y="360" font-size="260" fill="#0f766e">한글</text>
+    <g font-size="64" fill="#0f766e" opacity=".35">
+      <text x="110" y="120">ㄱ</text><text x="260" y="560">ㄴ</text><text x="1080" y="140">ㅏ</text><text x="980" y="560">ㅗ</text>
+      <text x="420" y="110">ㅁ</text><text x="800" y="100">ㅅ</text><text x="130" y="420">ㅣ</text><text x="1090" y="400">ㅇ</text>
+    </g>
+    <text x="600" y="470" font-size="40" fill="#134e4a" font-weight="500">ㄱ ㄴ ㄷ ㄹ ㅁ ㅂ ㅅ · ㅏ ㅓ ㅗ ㅜ ㅡ ㅣ</text>
+  </g>
+</svg>
