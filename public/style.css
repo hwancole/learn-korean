@@ -1,0 +1,36 @@
+:root{--bg:#fbfaf7;--fg:#1d1d1f;--muted:#6b6b70;--line:#e6e3dc;--accent:#0f766e;--card:#fff;--max:760px}
+@media (prefers-color-scheme:dark){:root{--bg:#141416;--fg:#ececee;--muted:#a0a0a8;--line:#2c2c31;--accent:#2dd4bf;--card:#1c1c1f}}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--fg);font:17px/1.7 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Hiragino Sans","Noto Sans JP","Noto Sans KR",sans-serif}
+a{color:var(--accent)}
+img{max-width:100%;height:auto;border-radius:10px;display:block}
+.wrap{max-width:var(--max);margin:0 auto;padding:0 16px}
+.site-header{border-bottom:1px solid var(--line);background:var(--card)}
+.site-header .wrap{display:flex;align-items:center;justify-content:space-between;gap:12px;min-height:56px;flex-wrap:wrap}
+.brand{font-weight:700;font-size:19px;color:var(--fg);text-decoration:none}
+.langs{display:flex;gap:10px;font-size:14px}
+.langs span{font-weight:600}
+.hero{padding:40px 0 8px}
+.hero h1{margin:0 0 6px;font-size:32px;line-height:1.25}
+.hero p{margin:0;color:var(--muted)}
+.section-title{font-size:15px;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);margin:32px 0 12px}
+.cards{display:grid;gap:16px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:18px}
+.card h2{font-size:21px;line-height:1.35;margin:10px 0 6px}
+.card h2 a{color:var(--fg);text-decoration:none}
+.card p{margin:0 0 8px}
+.meta{font-size:14px;color:var(--muted)}
+.crumbs{font-size:14px;margin:24px 0 0}
+.post h1{font-size:32px;line-height:1.25;margin:8px 0}
+figure{margin:20px 0}
+figcaption{font-size:13px;color:var(--muted);margin-top:6px}
+.prose h2{font-size:24px;line-height:1.3;margin:36px 0 10px}
+.prose h3{font-size:19px;margin:26px 0 8px}
+.prose table{border-collapse:collapse;width:100%;display:block;overflow-x:auto;font-size:15px}
+.prose th,.prose td{border:1px solid var(--line);padding:8px 10px;text-align:left;vertical-align:top}
+.prose th{background:var(--card)}
+.prose blockquote{margin:16px 0;padding:10px 16px;border-left:4px solid var(--accent);background:var(--card);border-radius:0 8px 8px 0}
+.prose code{font-size:.9em;background:var(--card);padding:1px 5px;border-radius:4px}
+.site-footer{border-top:1px solid var(--line);margin-top:56px;padding:20px 0;font-size:14px;color:var(--muted)}
+.chooser{display:grid;gap:12px;padding:64px 16px}

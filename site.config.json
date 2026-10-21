@@ -1,0 +1,29 @@
+{
+  "siteUrl": "https://hwancole.github.io",
+  "basePath": "/learn-korean",
+  "defaultLang": "en",
+  "langs": {
+    "en": {
+      "label": "English",
+      "hreflang": "en",
+      "title": "Learn Korean",
+      "tagline": "Korean explained clearly by a native speaker: Hangul, grammar and everyday phrases",
+      "readMore": "Read more",
+      "updated": "Updated",
+      "latest": "Latest lessons",
+      "home": "Home",
+      "minRead": "min read"
+    },
+    "es": {
+      "label": "Español",
+      "hreflang": "es",
+      "title": "Aprende Coreano",
+      "tagline": "Coreano explicado con claridad: hangul, gramática y frases del día a día",
+      "readMore": "Leer más",
+      "updated": "Actualizado",
+      "latest": "Últimas lecciones",
+      "home": "Inicio",
+      "minRead": "min de lectura"
+    }
+  }
+}

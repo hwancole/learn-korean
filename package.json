@@ -1,0 +1,26 @@
+{
+  "name": "learn-korean",
+  "version": "1.0.0",
+  "description": "Learn Korean - multilingual static blog",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "preview": "npx --yes serve dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hwancole/learn-korean.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hwancole/learn-korean/issues"
+  },
+  "homepage": "https://github.com/hwancole/learn-korean#readme",
+  "dependencies": {
+    "gray-matter": "^4.0.3",
+    "marked": "^18.1.1"
+  },
+  "type": "module",
+  "private": true
+}
