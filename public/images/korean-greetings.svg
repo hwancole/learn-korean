@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#fdf4ec"/>
+  <g font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" text-anchor="middle">
+    <g font-size="44" font-weight="700" fill="#c2410c" opacity=".28">
+      <text x="190" y="110">감사합니다</text><text x="1000" y="120">안녕히 가세요</text>
+      <text x="200" y="560">반갑습니다</text><text x="1010" y="560">죄송합니다</text>
+    </g>
+    <text x="600" y="345" font-size="168" font-weight="700" fill="#9a3412">안녕하세요</text>
+    <text x="600" y="435" font-size="46" font-weight="500" fill="#7c2d12">annyeonghaseyo · hello</text>
+  </g>
+</svg>
