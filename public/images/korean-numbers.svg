@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#eef6f3"/>
+  <g font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" text-anchor="middle">
+    <g font-size="44" font-weight="700" fill="#0f766e" opacity=".25">
+      <text x="170" y="105">다섯</text><text x="1030" y="110">오천 원</text>
+      <text x="190" y="575">세 시 반</text><text x="1020" y="575">이십삼</text>
+    </g>
+    <g font-size="40" font-weight="500" fill="#115e59">
+      <text x="300" y="175">1 · 2 · 3</text><text x="900" y="175">1 · 2 · 3</text>
+    </g>
+    <text x="300" y="320" font-size="96" font-weight="700" fill="#134e4a">하나 둘 셋</text>
+    <text x="900" y="320" font-size="96" font-weight="700" fill="#134e4a">일 이 삼</text>
+    <g font-size="38" font-weight="500" fill="#0f766e">
+      <text x="300" y="385">hana dul set · native</text><text x="900" y="385">il i sam · Sino-Korean</text>
+    </g>
+    <line x1="600" y1="200" x2="600" y2="410" stroke="#99c9bf" stroke-width="3"/>
+    <text x="600" y="480" font-size="48" font-weight="700" fill="#134e4a">Korean numbers</text>
+  </g>
+</svg>

@@ -158,4 +158,4 @@ Then read each answer aloud three times, paying attention to the *-ham-ni-da* an
 
 **Why do romanizations differ online?** You'll see "annyeonghaseyo", "annyong haseyo" and "anyonghaseyo". This blog uses Revised Romanization, the official system used on road signs in South Korea. The best fix is to read the Hangul directly.
 
-**What should I learn next?** Korean numbers. You'll need them for prices, phone numbers and telling the time.
+**What should I learn next?** [Korean numbers](/learn-korean/en/korean-numbers/). You'll need them for prices, phone numbers and telling the time.
