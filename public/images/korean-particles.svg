@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#eef6f3"/>
+  <g font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" text-anchor="middle">
+    <g font-size="44" font-weight="700" fill="#0f766e" opacity=".25">
+      <text x="180" y="95">저는</text><text x="1020" y="95">커피를</text>
+      <text x="190" y="585">제가</text><text x="1010" y="585">마셔요</text>
+    </g>
+    <g font-size="40" font-weight="500" fill="#115e59">
+      <text x="230" y="190">topic</text><text x="600" y="190">subject</text><text x="970" y="190">object</text>
+    </g>
+    <g font-size="104" font-weight="700" fill="#134e4a">
+      <text x="230" y="320">은/는</text><text x="600" y="320">이/가</text><text x="970" y="320">을/를</text>
+    </g>
+    <g font-size="36" font-weight="500" fill="#0f766e">
+      <text x="230" y="385">eun / neun</text><text x="600" y="385">i / ga</text><text x="970" y="385">eul / reul</text>
+    </g>
+    <line x1="415" y1="220" x2="415" y2="410" stroke="#99c9bf" stroke-width="3"/>
+    <line x1="785" y1="220" x2="785" y2="410" stroke="#99c9bf" stroke-width="3"/>
+    <text x="600" y="490" font-size="48" font-weight="700" fill="#134e4a">Korean particles</text>
+  </g>
+</svg>
