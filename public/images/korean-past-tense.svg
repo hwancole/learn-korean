@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#eef4fb"/>
+  <g font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" text-anchor="middle">
+    <g font-size="44" font-weight="700" fill="#1d4ed8" opacity=".2">
+      <text x="170" y="95">봤어요</text><text x="1030" y="95">마셨어요</text>
+      <text x="180" y="585">어제</text><text x="1020" y="585">몰랐어요</text>
+    </g>
+    <g font-size="56" font-weight="500" fill="#1e40af">
+      <text x="230" y="200">가다</text><text x="600" y="200">먹다</text><text x="970" y="200">하다</text>
+    </g>
+    <g font-size="40" fill="#3b82f6">
+      <text x="230" y="250">↓</text><text x="600" y="250">↓</text><text x="970" y="250">↓</text>
+    </g>
+    <g font-size="80" font-weight="700" fill="#1e3a8a">
+      <text x="230" y="350">갔어요</text><text x="600" y="350">먹었어요</text><text x="970" y="350">했어요</text>
+    </g>
+    <g font-size="34" font-weight="500" fill="#1d4ed8">
+      <text x="230" y="410">gasseoyo</text><text x="600" y="410">meogeosseoyo</text><text x="970" y="410">haesseoyo</text>
+    </g>
+    <line x1="415" y1="160" x2="415" y2="430" stroke="#bfd3f2" stroke-width="3"/>
+    <line x1="785" y1="160" x2="785" y2="430" stroke="#bfd3f2" stroke-width="3"/>
+    <text x="600" y="505" font-size="48" font-weight="700" fill="#1e3a8a">Korean past tense</text>
+  </g>
+</svg>
