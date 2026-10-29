@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#f0f8f4"/>
+  <g font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" text-anchor="middle">
+    <g font-size="44" font-weight="700" fill="#047857" opacity=".2">
+      <text x="170" y="95">내일</text><text x="1030" y="95">볼 거예요</text>
+      <text x="180" y="585">할게요</text><text x="1020" y="585">다음 주</text>
+    </g>
+    <g font-size="56" font-weight="500" fill="#065f46">
+      <text x="230" y="200">가다</text><text x="600" y="200">먹다</text><text x="970" y="200">하다</text>
+    </g>
+    <g font-size="40" fill="#10b981">
+      <text x="230" y="250">↓</text><text x="600" y="250">↓</text><text x="970" y="250">↓</text>
+    </g>
+    <g font-size="64" font-weight="700" fill="#064e3b">
+      <text x="230" y="345">갈 거예요</text><text x="600" y="345">먹을 거예요</text><text x="970" y="345">할 거예요</text>
+    </g>
+    <g font-size="32" font-weight="500" fill="#047857">
+      <text x="230" y="405">gal geoyeyo</text><text x="600" y="405">meogeul geoyeyo</text><text x="970" y="405">hal geoyeyo</text>
+    </g>
+    <line x1="415" y1="160" x2="415" y2="430" stroke="#bfe5d3" stroke-width="3"/>
+    <line x1="785" y1="160" x2="785" y2="430" stroke="#bfe5d3" stroke-width="3"/>
+    <text x="600" y="505" font-size="48" font-weight="700" fill="#064e3b">Korean future tense</text>
+  </g>
+</svg>
