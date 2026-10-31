@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#fdf2f4"/>
+  <g font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" text-anchor="middle">
+    <g font-size="44" font-weight="700" fill="#be123c" opacity=".2">
+      <text x="170" y="95">없어요</text><text x="1030" y="95">몰라요</text>
+      <text x="200" y="585">-지 않아요</text><text x="1000" y="585">아니에요</text>
+    </g>
+    <text x="600" y="150" font-size="60" font-weight="500" fill="#9f1239">가요</text>
+    <text x="600" y="190" font-size="30" font-weight="500" fill="#be123c">gayo · I go</text>
+    <g font-size="40" fill="#f43f5e">
+      <text x="400" y="250">↙</text><text x="800" y="250">↘</text>
+    </g>
+    <g font-size="72" font-weight="700" fill="#881337">
+      <text x="340" y="350">안 가요</text><text x="860" y="350">못 가요</text>
+    </g>
+    <g font-size="32" font-weight="500" fill="#be123c">
+      <text x="340" y="405">an gayo · don't go</text><text x="860" y="405">mot gayo · can't go</text>
+    </g>
+    <line x1="600" y1="270" x2="600" y2="430" stroke="#fbcfd8" stroke-width="3"/>
+    <text x="600" y="505" font-size="48" font-weight="700" fill="#881337">Korean negation: 안 vs 못</text>
+  </g>
+</svg>
