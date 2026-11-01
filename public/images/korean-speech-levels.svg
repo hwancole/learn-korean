@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#eef6ff"/>
+  <g font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" text-anchor="middle">
+    <g font-size="42" font-weight="700" fill="#1d4ed8" opacity=".18">
+      <text x="160" y="95">드세요</text><text x="1040" y="95">계세요</text>
+      <text x="170" y="590">말씀</text><text x="1030" y="590">께서</text>
+    </g>
+    <text x="600" y="120" font-size="40" font-weight="500" fill="#1e40af">가다 · to go</text>
+    <g font-size="30" font-weight="500" fill="#3b82f6">
+      <text x="250" y="200">Formal polite</text><text x="600" y="200">Polite</text><text x="950" y="200">Casual (반말)</text>
+    </g>
+    <rect x="110" y="225" width="280" height="170" rx="22" fill="#dbeafe"/>
+    <rect x="460" y="225" width="280" height="170" rx="22" fill="#bfdbfe"/>
+    <rect x="810" y="225" width="280" height="170" rx="22" fill="#dbeafe"/>
+    <g font-size="76" font-weight="700" fill="#1e3a8a">
+      <text x="250" y="325">갑니다</text><text x="600" y="325">가요</text><text x="950" y="325">가</text>
+    </g>
+    <g font-size="28" font-weight="500" fill="#1d4ed8">
+      <text x="250" y="370">gamnida</text><text x="600" y="370">gayo</text><text x="950" y="370">ga</text>
+    </g>
+    <text x="600" y="505" font-size="46" font-weight="700" fill="#1e3a8a">Formal vs informal Korean</text>
+  </g>
+</svg>
