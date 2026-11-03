@@ -260,4 +260,4 @@ Then answer **주말에 뭐 할 거예요?** about your own next weekend in thre
 
 **Why does 갈 거예요 sound like "gal kkeoyeyo"?** After the future ㄹ, the next ㄱ, ㄷ, ㅂ, ㅅ or ㅈ is pronounced tense. It's a regular sound rule, so 할 수 있어요 ("I can do it") also sounds like [할 쑤 이써요].
 
-**What's next?** Now that you have present, past and future, a natural next step is asking and suggesting with -(으)ㄹ까요? (갈까요?, "Shall we go?"), which uses the same vowel/consonant rule you just learned.
+**What's next?** Now that you have present, past and future, a natural next step is asking and suggesting with [-(으)ㄹ까요?](/learn-korean/en/korean-shall-we-eulkkayo/) (갈까요?, "Shall we go?"), which uses the same vowel/consonant rule you just learned.

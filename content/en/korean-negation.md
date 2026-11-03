@@ -222,4 +222,4 @@ Then rewrite the first three answers with the long forms -지 않아요 and -지
 
 **Is 못 always about ability?** No. It's about anything that makes something impossible: lack of skill (수영을 못 해요), a busy schedule (내일 못 가요) or a rule. If you could do it but choose not to, use 안.
 
-**What's next?** With positive and negative forms in all three tenses, a natural next step is asking and suggesting with -(으)ㄹ까요? (갈까요?, "Shall we go?").
+**What's next?** With positive and negative forms in all three tenses, a natural next step is asking and suggesting with [-(으)ㄹ까요?](/learn-korean/en/korean-shall-we-eulkkayo/) (갈까요?, "Shall we go?").

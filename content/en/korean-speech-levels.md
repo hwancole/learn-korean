@@ -229,4 +229,4 @@ Now make each sentence honorific:
 
 **Do I use honorifics for my own parents?** When talking about them to others, especially in formal situations, yes: 아버지께서 회사에 다니세요 ("My father works at a company"). In daily conversation with them, many people use -요 or 반말 with some honorific verbs.
 
-**What's next?** Now that you can choose the right level, a good next step is suggesting and asking with -(으)ㄹ까요? (갈까요?, "Shall we go?"), and practicing negatives in every level with [Korean negation](/learn-korean/en/korean-negation/).
+**What's next?** Now that you can choose the right level, a good next step is suggesting and asking with [-(으)ㄹ까요?](/learn-korean/en/korean-shall-we-eulkkayo/) (갈까요?, "Shall we go?"), and practicing negatives in every level with [Korean negation](/learn-korean/en/korean-negation/).
