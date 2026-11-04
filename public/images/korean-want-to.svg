@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#fff7ed"/>
+  <g font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" text-anchor="middle">
+    <g font-size="44" font-weight="700" fill="#c2410c" opacity=".18">
+      <text x="180" y="95">보고 싶어요</text><text x="1020" y="95">쉬고 싶어요</text>
+      <text x="190" y="585">사고 싶어요</text><text x="1010" y="585">자고 싶어요</text>
+    </g>
+    <g font-size="52" font-weight="500" fill="#9a3412">
+      <text x="330" y="170">가다</text><text x="870" y="170">먹다</text>
+    </g>
+    <g font-size="40" fill="#f97316">
+      <text x="330" y="235">↓</text><text x="870" y="235">↓</text>
+    </g>
+    <g font-size="70" font-weight="700" fill="#7c2d12">
+      <text x="330" y="335">가고 싶어요</text><text x="870" y="335">먹고 싶어요</text>
+    </g>
+    <g font-size="28" font-weight="500" fill="#c2410c">
+      <text x="330" y="390">gago sipeoyo · I want to go</text><text x="870" y="390">meokgo sipeoyo · I want to eat</text>
+    </g>
+    <line x1="600" y1="140" x2="600" y2="410" stroke="#fed7aa" stroke-width="3"/>
+    <text x="600" y="495" font-size="48" font-weight="700" fill="#7c2d12">"I want to" in Korean: -고 싶어요</text>
+  </g>
+</svg>
