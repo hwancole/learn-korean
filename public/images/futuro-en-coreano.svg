@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#eef6f3"/>
+  <g font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" text-anchor="middle">
+    <g font-size="44" font-weight="700" fill="#0f766e" opacity=".25">
+      <text x="190" y="100">볼 거예요</text><text x="1010" y="100">마실 거예요</text>
+      <text x="190" y="580">추울 거예요</text><text x="1010" y="580">할게요</text>
+    </g>
+    <g fill="#134e4a" font-weight="700" font-size="64">
+      <text x="230" y="215">가다</text><text x="600" y="215">먹다</text><text x="970" y="215">하다</text>
+    </g>
+    <g fill="#0f766e" font-size="48">
+      <text x="230" y="275">↓</text><text x="600" y="275">↓</text><text x="970" y="275">↓</text>
+    </g>
+    <g fill="#134e4a" font-weight="700" font-size="58">
+      <text x="230" y="370">갈 거예요</text><text x="600" y="370">먹을 거예요</text><text x="970" y="370">할 거예요</text>
+    </g>
+    <g font-size="28" font-weight="500" fill="#0f766e">
+      <text x="230" y="420">gal geoyeyo · iré</text><text x="600" y="420">meogeul geoyeyo · comeré</text><text x="970" y="420">hal geoyeyo · haré</text>
+    </g>
+    <line x1="415" y1="170" x2="415" y2="430" stroke="#99c9bf" stroke-width="3"/>
+    <line x1="785" y1="170" x2="785" y2="430" stroke="#99c9bf" stroke-width="3"/>
+    <text x="600" y="510" font-size="48" font-weight="700" fill="#134e4a">El futuro en coreano</text>
+  </g>
+</svg>
