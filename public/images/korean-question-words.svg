@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#eff6ff"/>
+  <g font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" text-anchor="middle">
+    <g font-size="40" font-weight="700" fill="#1d4ed8" opacity=".16">
+      <text x="170" y="80">이름이 뭐예요?</text><text x="1030" y="80">얼마예요?</text>
+      <text x="170" y="600">몇 시예요?</text><text x="1030" y="600">어디예요?</text>
+    </g>
+    <g font-size="76" font-weight="700" fill="#1e3a8a">
+      <text x="250" y="210">뭐</text><text x="600" y="210">어디</text><text x="950" y="210">언제</text>
+      <text x="250" y="390">누구</text><text x="600" y="390">왜</text><text x="950" y="390">어떻게</text>
+    </g>
+    <g font-size="28" font-weight="500" fill="#2563eb">
+      <text x="250" y="255">mwo · what</text><text x="600" y="255">eodi · where</text><text x="950" y="255">eonje · when</text>
+      <text x="250" y="435">nugu · who</text><text x="600" y="435">wae · why</text><text x="950" y="435">eotteoke · how</text>
+    </g>
+    <text x="600" y="520" font-size="46" font-weight="700" fill="#1e3a8a">Korean Question Words</text>
+  </g>
+</svg>
