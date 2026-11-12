@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#fefce8"/>
+  <g font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" text-anchor="middle">
+    <g font-size="34" font-weight="700" fill="#a16207" opacity=".18">
+      <text x="190" y="70">오늘 무슨 요일이에요?</text><text x="1010" y="70">이번 주말</text>
+      <text x="190" y="605">다음 주 월요일</text><text x="1010" y="605">불금!</text>
+    </g>
+    <g font-weight="700">
+      <rect x="60" y="150" width="140" height="190" rx="20" fill="#fde68a"/>
+      <rect x="215" y="150" width="140" height="190" rx="20" fill="#fde68a"/>
+      <rect x="370" y="150" width="140" height="190" rx="20" fill="#fde68a"/>
+      <rect x="525" y="150" width="140" height="190" rx="20" fill="#fde68a"/>
+      <rect x="680" y="150" width="140" height="190" rx="20" fill="#fde68a"/>
+      <rect x="835" y="150" width="140" height="190" rx="20" fill="#bfdbfe"/>
+      <rect x="990" y="150" width="140" height="190" rx="20" fill="#fecaca"/>
+      <g font-size="80" fill="#713f12">
+        <text x="130" y="265">월</text><text x="285" y="265">화</text><text x="440" y="265">수</text>
+        <text x="595" y="265">목</text><text x="750" y="265">금</text>
+        <text x="905" y="265" fill="#1e40af">토</text><text x="1060" y="265" fill="#b91c1c">일</text>
+      </g>
+      <g font-size="24" font-weight="500" fill="#854d0e">
+        <text x="130" y="315">Mon</text><text x="285" y="315">Tue</text><text x="440" y="315">Wed</text>
+        <text x="595" y="315">Thu</text><text x="750" y="315">Fri</text>
+        <text x="905" y="315" fill="#1e40af">Sat</text><text x="1060" y="315" fill="#b91c1c">Sun</text>
+      </g>
+    </g>
+    <text x="600" y="440" font-size="40" font-weight="700" fill="#713f12">월요일 · 화요일 · 수요일 · 목요일 · 금요일 · 토요일 · 일요일</text>
+    <text x="600" y="520" font-size="50" font-weight="700" fill="#713f12">Days of the Week in Korean</text>
+  </g>
+</svg>
