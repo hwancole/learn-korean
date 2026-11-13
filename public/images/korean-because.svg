@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#eff6ff"/>
+  <g font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" text-anchor="middle">
+    <g font-size="34" font-weight="700" fill="#1e40af" opacity=".16">
+      <text x="200" y="70">늦어서 미안해요</text><text x="1000" y="70">왜요?</text>
+      <text x="200" y="605">비 때문에</text><text x="1000" y="605">그래서 · 그러니까</text>
+    </g>
+    <g font-weight="700">
+      <rect x="70" y="140" width="330" height="200" rx="24" fill="#bfdbfe"/>
+      <rect x="435" y="140" width="330" height="200" rx="24" fill="#c7d2fe"/>
+      <rect x="800" y="140" width="330" height="200" rx="24" fill="#a5f3fc"/>
+      <g font-size="58" fill="#1e3a8a">
+        <text x="235" y="250">-아서/어서</text>
+        <text x="600" y="250">-(으)니까</text>
+        <text x="965" y="250">때문에</text>
+      </g>
+      <g font-size="24" font-weight="500" fill="#1e40af">
+        <text x="235" y="300">everyday reasons</text>
+        <text x="600" y="300">requests &amp; suggestions</text>
+        <text x="965" y="300">"because of"</text>
+      </g>
+    </g>
+    <text x="600" y="430" font-size="38" font-weight="700" fill="#1e3a8a">비가 오니까 우산을 가져가세요</text>
+    <text x="600" y="520" font-size="54" font-weight="700" fill="#1e3a8a">"Because" in Korean</text>
+  </g>
+</svg>
