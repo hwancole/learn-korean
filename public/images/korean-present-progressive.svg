@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#f0fdf4"/>
+  <g font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" text-anchor="middle">
+    <g font-size="44" font-weight="700" fill="#15803d" opacity=".18">
+      <text x="180" y="95">보고 있어요</text><text x="1020" y="95">자고 있어요</text>
+      <text x="200" y="585">듣고 있어요</text><text x="1000" y="585">가고 있어요</text>
+    </g>
+    <g font-size="52" font-weight="500" fill="#166534">
+      <text x="340" y="170">먹다</text><text x="860" y="170">공부하다</text>
+    </g>
+    <g font-size="40" fill="#22c55e">
+      <text x="340" y="235">↓</text><text x="860" y="235">↓</text>
+    </g>
+    <g font-size="64" font-weight="700" fill="#14532d">
+      <text x="340" y="330">먹고 있어요</text><text x="860" y="330">공부하고 있어요</text>
+    </g>
+    <g font-size="30" font-weight="500" fill="#15803d">
+      <text x="340" y="390">meokgo isseoyo · I'm eating</text><text x="860" y="390">gongbuhago isseoyo · I'm studying</text>
+    </g>
+    <line x1="600" y1="140" x2="600" y2="410" stroke="#bbf7d0" stroke-width="3"/>
+    <text x="600" y="495" font-size="48" font-weight="700" fill="#14532d">Korean -고 있어요: "I'm doing" right now</text>
+  </g>
+</svg>
