@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#eff6ff"/>
+  <g font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif">
+    <g font-size="32" font-weight="700" fill="#1e3a8a" opacity=".15" text-anchor="middle">
+      <text x="200" y="70">오전 아홉 시</text><text x="1000" y="70">밤 열 시</text>
+      <text x="200" y="605">한 시간쯤 걸려요</text><text x="1000" y="605">몇 시에 만날까요?</text>
+    </g>
+    <g transform="translate(330 315)">
+      <circle r="215" fill="#ffffff" stroke="#1e3a8a" stroke-width="14"/>
+      <g stroke="#1e3a8a" stroke-width="6" stroke-linecap="round">
+        <line y1="-200" y2="-182"/><line y1="200" y2="182"/><line x1="-200" x2="-182"/><line x1="200" x2="182"/>
+      </g>
+      <g font-size="30" font-weight="700" fill="#1e40af" text-anchor="middle">
+        <text x="0" y="-130">열두</text><text x="78" y="-108">한</text><text x="122" y="-58">두</text>
+        <text x="145" y="10">세</text><text x="122" y="80">네</text><text x="72" y="128">다섯</text>
+        <text x="0" y="158">여섯</text><text x="-72" y="128">일곱</text><text x="-122" y="80">여덟</text>
+        <text x="-130" y="10">아홉</text><text x="-122" y="-58">열</text><text x="-72" y="-108">열한</text>
+      </g>
+      <line x1="0" y1="0" x2="72" y2="19" stroke="#1e3a8a" stroke-width="14" stroke-linecap="round"/>
+      <line x1="0" y1="0" x2="0" y2="112" stroke="#2563eb" stroke-width="8" stroke-linecap="round"/>
+      <circle r="14" fill="#1e3a8a"/>
+    </g>
+    <g text-anchor="middle" fill="#1e3a8a" font-weight="700">
+      <text x="865" y="215" font-size="110">세 시 반</text>
+      <text x="865" y="285" font-size="34" font-weight="500" fill="#1e40af">se si ban · 3:30</text>
+      <text x="865" y="385" font-size="46">지금 몇 시예요?</text>
+      <text x="865" y="480" font-size="46">Telling Time</text>
+      <text x="865" y="535" font-size="46">in Korean</text>
+    </g>
+  </g>
+</svg>
