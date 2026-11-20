@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#eef6ff"/>
+  <g font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" text-anchor="middle">
+    <g font-size="44" font-weight="700" fill="#1d4ed8" opacity=".18">
+      <text x="180" y="95">존댓말</text><text x="1020" y="95">반말</text>
+      <text x="200" y="590">-(으)시-</text><text x="1000" y="590">드세요</text>
+    </g>
+    <g font-size="72" font-weight="700" fill="#1e3a8a">
+      <text x="250" y="300">갑니다</text><text x="600" y="300">가요</text><text x="950" y="300">가</text>
+    </g>
+    <g font-size="30" font-weight="500" fill="#2563eb">
+      <text x="250" y="350">gamnida</text><text x="600" y="350">gayo</text><text x="950" y="350">ga</text>
+    </g>
+    <g font-size="28" font-weight="500" fill="#1e40af">
+      <text x="250" y="395">formal</text><text x="600" y="395">cortés</text><text x="950" y="395">informal</text>
+    </g>
+    <line x1="425" y1="210" x2="425" y2="410" stroke="#bfdbfe" stroke-width="3"/>
+    <line x1="775" y1="210" x2="775" y2="410" stroke="#bfdbfe" stroke-width="3"/>
+    <text x="600" y="190" font-size="40" font-weight="500" fill="#3b82f6">가다 · ir</text>
+    <text x="600" y="505" font-size="48" font-weight="700" fill="#1e3a8a">Coreano formal e informal</text>
+  </g>
+</svg>
