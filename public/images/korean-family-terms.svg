@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#fdf2f8"/>
+  <g font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif">
+    <g font-size="30" font-weight="700" fill="#831843" opacity=".14" text-anchor="middle">
+      <text x="170" y="60">할머니</text><text x="1030" y="60">할아버지</text>
+      <text x="170" y="610">이모 · 고모</text><text x="1030" y="610">우리 가족</text>
+    </g>
+    <g stroke="#9d174d" stroke-width="6" fill="none" stroke-linecap="round">
+      <line x1="300" y1="170" x2="500" y2="170"/>
+      <line x1="400" y1="170" x2="400" y2="250"/>
+      <line x1="160" y1="250" x2="640" y2="250"/>
+      <line x1="160" y1="250" x2="160" y2="300"/><line x1="320" y1="250" x2="320" y2="300"/>
+      <line x1="480" y1="250" x2="480" y2="300"/><line x1="640" y1="250" x2="640" y2="300"/>
+    </g>
+    <g text-anchor="middle" font-weight="700">
+      <rect x="215" y="120" width="170" height="100" rx="20" fill="#fff" stroke="#9d174d" stroke-width="5"/>
+      <text x="300" y="185" font-size="42" fill="#831843">엄마</text>
+      <rect x="415" y="120" width="170" height="100" rx="20" fill="#fff" stroke="#9d174d" stroke-width="5"/>
+      <text x="500" y="185" font-size="42" fill="#831843">아빠</text>
+      <g font-size="40" fill="#fff">
+        <rect x="90" y="300" width="140" height="90" rx="18" fill="#db2777"/><text x="160" y="360">오빠</text>
+        <rect x="250" y="300" width="140" height="90" rx="18" fill="#be185d"/><text x="320" y="360">언니</text>
+        <rect x="410" y="300" width="140" height="90" rx="18" fill="#2563eb"/><text x="480" y="360">형</text>
+        <rect x="570" y="300" width="140" height="90" rx="18" fill="#1d4ed8"/><text x="640" y="360">누나</text>
+      </g>
+      <g font-size="22" font-weight="500" fill="#6b7280">
+        <text x="160" y="420">oppa</text><text x="320" y="420">eonni</text>
+        <text x="480" y="420">hyeong</text><text x="640" y="420">nuna</text>
+      </g>
+      <text x="240" y="480" font-size="24" font-weight="500" fill="#be185d">said by women</text>
+      <text x="560" y="480" font-size="24" font-weight="500" fill="#1d4ed8">said by men</text>
+      <rect x="320" y="520" width="160" height="70" rx="16" fill="#fff" stroke="#9d174d" stroke-width="4"/>
+      <text x="400" y="567" font-size="32" fill="#831843">동생</text>
+    </g>
+    <g text-anchor="middle" fill="#831843" font-weight="700">
+      <text x="960" y="250" font-size="64">Korean</text>
+      <text x="960" y="330" font-size="64">Family Terms</text>
+      <text x="960" y="410" font-size="34" font-weight="500" fill="#9d174d">오빠 · 언니 · 형 · 누나</text>
+    </g>
+  </g>
+</svg>
