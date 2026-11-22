@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#fff7ed"/>
+  <g font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" text-anchor="middle">
+    <g font-size="44" font-weight="700" fill="#c2410c" opacity=".16">
+      <text x="170" y="95">그런데</text><text x="1030" y="95">그렇지만</text>
+      <text x="190" y="585">작지만</text><text x="1010" y="585">근데</text>
+    </g>
+    <g font-size="34" font-weight="500" fill="#9a3412">
+      <text x="340" y="165">in one sentence</text><text x="860" y="165">between sentences</text>
+    </g>
+    <g font-size="64" font-weight="700" fill="#7c2d12">
+      <text x="340" y="275">비싸지만</text><text x="860" y="275">하지만</text>
+    </g>
+    <g font-size="48" font-weight="500" fill="#7c2d12">
+      <text x="340" y="345">맛있어요</text><text x="860" y="345">좀 비싸요</text>
+    </g>
+    <g font-size="28" font-weight="500" fill="#c2410c">
+      <text x="340" y="395">expensive but tasty</text><text x="860" y="395">but it's a bit pricey</text>
+    </g>
+    <line x1="600" y1="135" x2="600" y2="410" stroke="#fed7aa" stroke-width="3"/>
+    <text x="600" y="495" font-size="50" font-weight="700" fill="#7c2d12">"But" in Korean: -지만, 하지만, 그런데</text>
+  </g>
+</svg>
