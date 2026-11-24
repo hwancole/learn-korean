@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#ecfdf5"/>
+  <g font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" text-anchor="middle">
+    <g font-size="44" font-weight="700" fill="#047857" opacity=".18">
+      <text x="180" y="95">어렸을 때</text><text x="1020" y="95">방학 때</text>
+      <text x="200" y="585">만들 때</text><text x="1000" y="585">들을 때마다</text>
+    </g>
+    <g font-size="52" font-weight="500" fill="#065f46">
+      <text x="340" y="170">가다</text><text x="860" y="170">먹다</text>
+    </g>
+    <g font-size="40" fill="#10b981">
+      <text x="340" y="235">↓</text><text x="860" y="235">↓</text>
+    </g>
+    <g font-size="72" font-weight="700" fill="#064e3b">
+      <text x="340" y="330">갈 때</text><text x="860" y="330">먹을 때</text>
+    </g>
+    <g font-size="30" font-weight="500" fill="#047857">
+      <text x="340" y="390">gal ttae · when I go</text><text x="860" y="390">meogeul ttae · when I eat</text>
+    </g>
+    <line x1="600" y1="140" x2="600" y2="410" stroke="#a7f3d0" stroke-width="3"/>
+    <text x="600" y="495" font-size="48" font-weight="700" fill="#064e3b">"When" in Korean: -(으)ㄹ 때</text>
+  </g>
+</svg>
