@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#fdf4ec"/>
+  <g transform="translate(1000 220)">
+    <ellipse cx="0" cy="-40" rx="70" ry="10" fill="#f3c9a4" opacity=".6"/>
+    <path d="M-120 -40 H120 A120 120 0 0 1 -120 -40 Z" fill="#e07a3f"/>
+    <path d="M-120 -40 H120" stroke="#b85a26" stroke-width="6" stroke-linecap="round"/>
+    <rect x="-60" y="68" width="120" height="16" rx="8" fill="#b85a26"/>
+    <g stroke="#8a5a3c" stroke-width="10" stroke-linecap="round">
+      <line x1="40" y1="-70" x2="150" y2="-190"/><line x1="70" y1="-60" x2="175" y2="-170"/>
+    </g>
+  </g>
+  <g font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif">
+    <g font-size="40" font-weight="700" fill="#7a3b14" opacity=".18">
+      <text x="80" y="110">입어 봐도 돼요?</text><text x="800" y="585">생각해 볼게요</text>
+    </g>
+    <text x="90" y="290" font-size="84" font-weight="700" fill="#5a2a0c">먹어 <tspan fill="#d9622b">보세요</tspan></text>
+    <text x="90" y="340" font-size="34" font-weight="500" fill="#8a4a24">Give it a try</text>
+    <text x="90" y="450" font-size="80" font-weight="700" fill="#5a2a0c">가 <tspan fill="#d9622b">본 적</tspan> 있어요?</text>
+    <text x="90" y="500" font-size="34" font-weight="500" fill="#8a4a24">Have you ever been there?</text>
+    <text x="90" y="585" font-size="44" font-weight="700" fill="#5a2a0c">"Try" in Korean</text>
+  </g>
+</svg>
